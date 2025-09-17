@@ -1,7 +1,7 @@
 # List of video games I own, need to play, and have not yet played
 ## ordered by way of priority, wherein the first item is of the highest priority and the last file is of the lowest priority
-
-Organized by "Game (system owned on)
+---
+organized by Game (system playable) 
 ---
 
 1. Ni No Kuni 2: The Revenent Prince (NSW)
